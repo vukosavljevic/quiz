@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Kviz.Pitanja.Pitanje_6"
+             Title="Pitanje_6">
+    <VerticalStackLayout
+        Spacing="25"
+        Padding="30,0"
+        Margin="0,100,0,0"
+        VerticalOptions="Start">
+        <Label 
+            Text="6. Gdje se nalazi muzej Louvre?"
+            FontSize="22"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <StackLayout Orientation="Horizontal" VerticalOptions="Center" Margin="0,50,0,0">
+            <RadioButton GroupName="answers" x:Name="RadioButton1"/>
+            <Label FontSize="18" Text="U Zagrebu" Margin="0,8,0,0"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal" VerticalOptions="Center">
+            <RadioButton GroupName="answers" x:Name="RadioButton2"/>
+            <Label FontSize="18" Text="U Monte Carlu" Margin="0,8,0,0"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal" VerticalOptions="Center">
+            <RadioButton GroupName="answers" x:Name="RadioButton3"/>
+            <Label FontSize="18" Text="U Metzu" Margin="0,8,0,0"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal" VerticalOptions="Center">
+            <RadioButton GroupName="answers" x:Name="RadioButton4"/>
+            <Label FontSize="18" Text="U Parizu" Margin="0,8,0,0"/>
+        </StackLayout>
+
+        <Label
+            x:Name="AnswerLabel"
+            Text="Točno!"
+            FontSize="21"
+            TextColor="#00ff33"
+            HorizontalOptions="Center"
+            IsVisible="false"
+            />
+
+
+        <Button x:Name="SubmitBtn" Margin="0,70,0,0" Text="Submit" Clicked="OnSubmitClicked"/>
+
+    </VerticalStackLayout>
+</ContentPage>

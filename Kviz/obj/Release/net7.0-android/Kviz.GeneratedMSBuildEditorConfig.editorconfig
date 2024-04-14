@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net7.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = Kviz
+build_property.ProjectDir = F:\Skola\!Mobilni\Kviz\Kviz\
+
+[F:/Skola/\!Mobilni/Kviz/Kviz/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kviz.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[F:/Skola/\!Mobilni/Kviz/Kviz/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kviz.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[F:/Skola/\!Mobilni/Kviz/Kviz/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kviz.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[F:/Skola/\!Mobilni/Kviz/Kviz/Pitanja/EndPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kviz.Pitanja.EndPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pitanja\EndPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pitanja\EndPage.xaml
+
+[F:/Skola/\!Mobilni/Kviz/Kviz/Pitanja/Pitanje 1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kviz.Pitanja.Pitanje 1.xaml
+build_metadata.AdditionalFiles.TargetPath = Pitanja\Pitanje 1.xaml
+build_metadata.AdditionalFiles.RelativePath = Pitanja\Pitanje 1.xaml
+
+[F:/Skola/\!Mobilni/Kviz/Kviz/Pitanja/Pitanje 10.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kviz.Pitanja.Pitanje 10.xaml
+build_metadata.AdditionalFiles.TargetPath = Pitanja\Pitanje 10.xaml
+build_metadata.AdditionalFiles.RelativePath = Pitanja\Pitanje 10.xaml
+
+[F:/Skola/\!Mobilni/Kviz/Kviz/Pitanja/Pitanje 2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kviz.Pitanja.Pitanje 2.xaml
+build_metadata.AdditionalFiles.TargetPath = Pitanja\Pitanje 2.xaml
+build_metadata.AdditionalFiles.RelativePath = Pitanja\Pitanje 2.xaml
+
+[F:/Skola/\!Mobilni/Kviz/Kviz/Pitanja/Pitanje 3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kviz.Pitanja.Pitanje 3.xaml
+build_metadata.AdditionalFiles.TargetPath = Pitanja\Pitanje 3.xaml
+build_metadata.AdditionalFiles.RelativePath = Pitanja\Pitanje 3.xaml
+
+[F:/Skola/\!Mobilni/Kviz/Kviz/Pitanja/Pitanje 4.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kviz.Pitanja.Pitanje 4.xaml
+build_metadata.AdditionalFiles.TargetPath = Pitanja\Pitanje 4.xaml
+build_metadata.AdditionalFiles.RelativePath = Pitanja\Pitanje 4.xaml
+
+[F:/Skola/\!Mobilni/Kviz/Kviz/Pitanja/Pitanje 5.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kviz.Pitanja.Pitanje 5.xaml
+build_metadata.AdditionalFiles.TargetPath = Pitanja\Pitanje 5.xaml
+build_metadata.AdditionalFiles.RelativePath = Pitanja\Pitanje 5.xaml
+
+[F:/Skola/\!Mobilni/Kviz/Kviz/Pitanja/Pitanje 6.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kviz.Pitanja.Pitanje 6.xaml
+build_metadata.AdditionalFiles.TargetPath = Pitanja\Pitanje 6.xaml
+build_metadata.AdditionalFiles.RelativePath = Pitanja\Pitanje 6.xaml
+
+[F:/Skola/\!Mobilni/Kviz/Kviz/Pitanja/Pitanje 7.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kviz.Pitanja.Pitanje 7.xaml
+build_metadata.AdditionalFiles.TargetPath = Pitanja\Pitanje 7.xaml
+build_metadata.AdditionalFiles.RelativePath = Pitanja\Pitanje 7.xaml
+
+[F:/Skola/\!Mobilni/Kviz/Kviz/Pitanja/Pitanje 8.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kviz.Pitanja.Pitanje 8.xaml
+build_metadata.AdditionalFiles.TargetPath = Pitanja\Pitanje 8.xaml
+build_metadata.AdditionalFiles.RelativePath = Pitanja\Pitanje 8.xaml
+
+[F:/Skola/\!Mobilni/Kviz/Kviz/Pitanja/Pitanje 9.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kviz.Pitanja.Pitanje 9.xaml
+build_metadata.AdditionalFiles.TargetPath = Pitanja\Pitanje 9.xaml
+build_metadata.AdditionalFiles.RelativePath = Pitanja\Pitanje 9.xaml
+
+[F:/Skola/\!Mobilni/Kviz/Kviz/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kviz.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[F:/Skola/\!Mobilni/Kviz/Kviz/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Kviz.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

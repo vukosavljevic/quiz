@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Kviz.Pitanja.Pitanje_2"
+             Title="Pitanje_2">
+    <VerticalStackLayout
+        Spacing="25"
+        Padding="30,0"
+        Margin="0,100,0,0"
+        VerticalOptions="Start">
+        <Label 
+            Text="2. Što se nalazi na grbu pa tako i na zastavi Andore?"
+            FontSize="22"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <StackLayout Orientation="Horizontal" VerticalOptions="Center" Margin="0,50,0,0">
+            <RadioButton GroupName="answers" x:Name="RadioButton1"/>
+            <Label FontSize="18" Text="Jedan konj" Margin="0,8,0,0"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal" VerticalOptions="Center">
+            <RadioButton GroupName="answers" x:Name="RadioButton2"/>
+            <Label FontSize="18" Text="Četiri lava" Margin="0,8,0,0"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal" VerticalOptions="Center">
+            <RadioButton GroupName="answers" x:Name="RadioButton3"/>
+            <Label FontSize="18" Text="Dvije krave" Margin="0,8,0,0"/>
+        </StackLayout>
+
+        <Label
+            x:Name="AnswerLabel"
+            Text="Točno!"
+            FontSize="21"
+            TextColor="#00ff33"
+            HorizontalOptions="Center"
+            IsVisible="false"
+            />
+
+
+        <Button x:Name="SubmitBtn" Margin="0,70,0,0" Text="Submit" Clicked="OnSubmitClicked"/>
+
+    </VerticalStackLayout>
+</ContentPage>

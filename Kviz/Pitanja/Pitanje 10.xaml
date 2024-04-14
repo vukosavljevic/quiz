@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Kviz.Pitanja.Pitanje_10"
+             Title="Pitanje_10">
+    <VerticalStackLayout
+        Spacing="25"
+        Padding="30,0"
+        Margin="0,100,0,0"
+        VerticalOptions="Start">
+        <Label 
+            Text="10. Koliko je u bajci Snjeguljica bilo patuljaka?"
+            FontSize="22"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <Entry 
+            x:Name="TextInput" Placeholder="Upiši odgovor" FontSize="18"/>
+
+        <Label
+            x:Name="AnswerLabel"
+            Text="Točno!"
+            FontSize="21"
+            TextColor="#00ff33"
+            HorizontalOptions="Center"
+            IsVisible="false"
+            />
+
+
+        <Button x:Name="SubmitBtn" Margin="0,70,0,0" Text="Submit" Clicked="OnSubmitClicked"/>
+
+    </VerticalStackLayout>
+</ContentPage>
